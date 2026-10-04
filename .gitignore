@@ -1,0 +1,32 @@
+# Local secrets and credentials
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+keystore/
+keystores/
+secrets/
+credentials/
+.npmrc
+.netrc
+.git-credentials
+.aws/
+.ssh/
+
+# Dependencies, generated output, and local work
+node_modules/
+dist/
+dist-*/
+artifacts/
+.npm-cache/
+work/
+.vercel/
+*.zip
+*.log
+coverage/
+.DS_Store
+Thumbs.db

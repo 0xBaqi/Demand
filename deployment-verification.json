@@ -1,0 +1,16 @@
+{
+  "chainId": 421614,
+  "market": "0x527f508C47ac108Ae4d048F2B8f787E091bDb604",
+  "token": "0xFFC95faa3d63Cde504a05B567C600B78C0b41892",
+  "deployer": "0xa11c20b7f5525468b0FACAF6fe246C31F5eB912c",
+  "transaction": "0x0ae7a6bdb7a00fccb447b88dd16272a9ce70ce730f1ad154014b182fc6db7041",
+  "blockNumber": 315158879,
+  "status": 1,
+  "creationBytecodeMatches": true,
+  "runtimeBytecodeMatches": true,
+  "constructorTokenMatches": true,
+  "realUSDGCommitSettlementTest": "pending: Paxos faucet inaccessible; deployer holds zero USDG",
+  "contractUrl": "https://sepolia.arbiscan.io/address/0x527f508C47ac108Ae4d048F2B8f787E091bDb604",
+  "transactionUrl": "https://sepolia.arbiscan.io/tx/0x0ae7a6bdb7a00fccb447b88dd16272a9ce70ce730f1ad154014b182fc6db7041",
+  "checkedAt": "2026-10-03T00:47:18.592Z"
+}

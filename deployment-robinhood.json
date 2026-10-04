@@ -1,0 +1,21 @@
+{
+  "chainId": 46630,
+  "rpc": "https://rpc.testnet.chain.robinhood.com",
+  "market": "0x527f508C47ac108Ae4d048F2B8f787E091bDb604",
+  "transaction": "0x529ef31d85d5ff2888766aa47255bf4ca8e308e0703a3aaeed0aaf91c680d649",
+  "deployer": "0xa11c20b7f5525468b0FACAF6fe246C31F5eB912c",
+  "token": "0x7E955252E15c84f5768B83c41a71F9eba181802F",
+  "verified": true,
+  "submittedAt": "2026-10-03T10:17:45.458Z",
+  "blockNumber": 128092099,
+  "status": 1,
+  "decimals": 6,
+  "creationBytecodeMatches": true,
+  "runtimeBytecodeMatches": true,
+  "constructorTokenMatches": true,
+  "runtimeCodeHash": "0x4c5d5e3b09b1eed3820d9dc2b742355d6c71843e3bf68d609c90f749d881edc6",
+  "checkedAt": "2026-10-03T22:16:28.490Z",
+  "contractUrl": "https://explorer.testnet.chain.robinhood.com/address/0x527f508C47ac108Ae4d048F2B8f787E091bDb604",
+  "transactionUrl": "https://explorer.testnet.chain.robinhood.com/tx/0x529ef31d85d5ff2888766aa47255bf4ca8e308e0703a3aaeed0aaf91c680d649",
+  "realUSDGCommitSettlementTest": "pending"
+}
